@@ -6,6 +6,7 @@ Fistly download our project files into you machine and make sure to already inst
 Its has hide-file-decode.py file. Now click it or run -> python hidex-file-decode.py in your cmd.
 
 Its automatically check required libraries and installing them itself. 
+
 ======================================================================
 Required items
 
@@ -16,6 +17,7 @@ Make sure do this you need privacy.db and files encrypt by hidex extention. thea
 Now, privacy.db -> .hidex_dont_delete_me/db/privacy.db
 
 hidex files -> .hidex_dont_delete_me/files/h/i/d/e/x/1/(..).hidex
+
 ======================================================================    
 PC Process 
                
