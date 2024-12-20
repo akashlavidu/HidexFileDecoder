@@ -3,7 +3,11 @@ Easily recover your .hidex files use python script
 
 Fistly download our project files into you machine and make sure to already installed python.
 
-Its has hide-file-decode.py file. Now click it or run -> python hidex-file-decode.py in your cmd.
+Its has hide-file-decode.py file. 
+
+🔰 Now click double it 
+    OR
+🔰 run -> "python hidex-file-decode.py" in your cmd.
 
 Its automatically check required libraries and installing them itself. 
 
